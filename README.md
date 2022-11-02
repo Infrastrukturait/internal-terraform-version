@@ -2,7 +2,7 @@
 
 ## Current using version:
 ```
-%TF_VERSION%
+1.1.7
 ```
 
 ### How to update? 
