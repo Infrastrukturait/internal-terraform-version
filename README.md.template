@@ -1,0 +1,18 @@
+# internal-terraform-version
+
+## Current using version:
+```
+%TF_VERSION%
+```
+
+### How to update? 
+
+Run command:
+```
+$ ./update-tf-version.sh VERSION
+```
+
+and commit to `master` this change
+
+
+
