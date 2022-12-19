@@ -7,7 +7,7 @@
 ```
 - Terragrunt
 ```
-
+0.42.5
 ```
 
 ## How to update?
