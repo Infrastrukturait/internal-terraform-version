@@ -1,16 +1,28 @@
 # internal-terraform-version
 
 ## Current using version:
+- Terraform
 ```
 %TF_VERSION%
 ```
+- Terragrunt
+```
+%TG_VERSION%
+```
 
-### How to update? 
+## How to update?
 
+- Terraform
 Run command:
 ```
 $ ./update-tf-version.sh VERSION
 ```
 
-and commit to `master` this change
+- Terragrunt
+Run command:
+```
+$ ./update-tg-version.sh VERSION
+```
+
+and commit to `main` this change
 
