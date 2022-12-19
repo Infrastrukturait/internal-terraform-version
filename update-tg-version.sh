@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-TF_VERSION=%(cat ./terraform-version)
+TF_VERSION=$(cat ./terraform-version)
 TG_VERSION=$1
 
 echo $TG_VERSION > terragrunt-version
